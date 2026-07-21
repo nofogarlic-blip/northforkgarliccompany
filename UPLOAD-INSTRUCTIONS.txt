@@ -1,0 +1,7 @@
+UPLOAD THESE THREE FILES TO THE ROOT OF YOUR GITHUB REPOSITORY
+
+1. index.html   — replaces your current index.html
+2. sitemap.xml  — new file
+3. robots.txt   — new file
+
+Leave site.css, script.js, README.md, and all .jpg images exactly as they are.
