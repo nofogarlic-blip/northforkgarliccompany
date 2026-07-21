@@ -1,14 +1,20 @@
-NORTH FORK GARLIC COMPANY — V2 UPDATE
+NORTH FORK GARLIC COMPANY — V3
 
-EASIEST UPDATE:
-Upload/replace these files in the ROOT of your GitHub repository:
-- index.html
-- site.css
+This update adds:
+- Seasonal offerings and current prices
+- Fresh garlic, cured garlic, small garlic, scapes, garlic ropes and cut flowers
+- Cash & Venmo payment information
+- Eisenhower Park Farmers Market hours: Saturdays in August, 9 AM–1 PM
+- Real email: nofogarlic@gmail.com
+- Instagram: @nofogarlicco
+- Contact / Follow the Harvest section
+- Updated footer links
 
-Your existing photos, script.js, sitemap.xml, robots.txt and Google verification file can stay as-is.
+TO UPDATE YOUR EXISTING GITHUB SITE:
+Replace these TWO files in the root of the repository:
+1. index.html
+2. site.css
 
-This ZIP also contains a complete copy of the site assets in case you want everything together.
+Everything else can remain as-is.
 
-IMPORTANT:
-The site still contains the placeholder contact email from the earlier version only where applicable.
-The new Find Us section uses the provided farm stand address and a Google Maps directions link.
+This ZIP also includes the complete site assets for backup.
