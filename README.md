@@ -1,2 +1,2 @@
-# northforkgarliccompany
-Official website for North Fork Garlic Company
+# North Fork Garlic Company
+Upload to GitHub and enable GitHub Pages.
