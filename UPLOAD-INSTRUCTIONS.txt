@@ -1,7 +1,14 @@
-UPLOAD THESE THREE FILES TO THE ROOT OF YOUR GITHUB REPOSITORY
+NORTH FORK GARLIC COMPANY — V2 UPDATE
 
-1. index.html   — replaces your current index.html
-2. sitemap.xml  — new file
-3. robots.txt   — new file
+EASIEST UPDATE:
+Upload/replace these files in the ROOT of your GitHub repository:
+- index.html
+- site.css
 
-Leave site.css, script.js, README.md, and all .jpg images exactly as they are.
+Your existing photos, script.js, sitemap.xml, robots.txt and Google verification file can stay as-is.
+
+This ZIP also contains a complete copy of the site assets in case you want everything together.
+
+IMPORTANT:
+The site still contains the placeholder contact email from the earlier version only where applicable.
+The new Find Us section uses the provided farm stand address and a Google Maps directions link.
