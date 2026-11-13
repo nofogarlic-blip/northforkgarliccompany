@@ -1,2 +1,1 @@
-# North Fork Garlic Company
-Upload to GitHub and enable GitHub Pages.
+North Fork Garlic Company — Six Varieties + Garlic Scapes (5 recipes) and four original scapes/quiche photographs. Upload all files and the varieties folder to your GitHub Pages repository. Existing homepage design retained. Delete any obsolete Polish White profile from GitHub if still present.
