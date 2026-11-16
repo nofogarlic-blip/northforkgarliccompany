@@ -1,0 +1,21 @@
+NORTH FORK GARLIC COMPANY — SEARCH ENGINE DISCOVERY UPDATE
+
+FILES TO UPLOAD TO GITHUB:
+  sitemap.xml
+  robots.txt
+
+1. Open https://github.com/nofogarlic-blip/northforkgarliccompany
+2. Make sure you are in the repository's main (root) directory, where index.html is.
+3. Click Add file > Upload files.
+4. Upload ONLY sitemap.xml and robots.txt from this ZIP.
+5. If GitHub asks about replacing existing files, replace those two files.
+6. Commit changes to the main branch.
+7. Wait for GitHub Pages deployment to finish.
+8. Visit https://nofogarlicco.com/sitemap.xml and confirm the XML loads.
+9. In Google Search Console > Sitemaps, submit: sitemap.xml
+
+NOTE:
+- This update does NOT modify your homepage, HTML, photos, CSS, or variety content.
+- It helps search engines discover pages, but does not guarantee indexing or rankings.
+- The sitemap assumes the six variety profiles are at the domain root, as seen in your GitHub screenshots.
+- If you later add a recipes page or more varieties, update sitemap.xml again.
