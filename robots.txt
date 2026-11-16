@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nofogarlic-blip.github.io/northforkgarliccompany/sitemap.xml
+Sitemap: https://nofogarlicco.com/sitemap.xml
