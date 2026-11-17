@@ -1,1 +1,1 @@
-Upload index.html and gallery-fix.css to the ROOT of your GitHub repository. This changes only the homepage gallery layout. Keep your existing photos and other files.
+Upload all THREE files (index.html, sticky-header.css, sticky-header.js) to the ROOT of the GitHub repository. This preserves the gallery fix and original photos. The change applies only to homepage navigation. After deploying, hard-refresh and test scrolling plus mobile menu.
